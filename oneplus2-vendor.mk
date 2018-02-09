@@ -495,7 +495,6 @@ PRODUCT_PACKAGES += \
     datastatusnotification \
     fastdormancy \
     shutdownlistener \
-    QtiTetherService \
     com.qualcomm.location \
     qcrilmsgtunnel \
     ims \
